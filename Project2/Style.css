@@ -1,0 +1,22 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div {
+    text-align: center;
+    justify-content: center;    
+}
+a {
+    color: #a1a1a1;
+    border: 3px solid #a1a1a1;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 15px;
+    padding: 5px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    transition: 0.7s ease-in-out;
+}
+a:hover {
+    color: #f1f1f1;
+    background-color: #a1a1a1;
+}
